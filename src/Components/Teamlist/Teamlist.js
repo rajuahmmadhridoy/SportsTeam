@@ -2,7 +2,7 @@ import React from 'react';
 import { Button,Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee,faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import {faArrowRight } from '@fortawesome/free-solid-svg-icons'
 import './Teamlist.css'
 const Teamlist = (props) => {
     // console.log(props.team)
