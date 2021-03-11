@@ -1,0 +1,70 @@
+body{
+    overflow-x: hidden;
+}
+.Theamdetailgalarry {
+    background: #260F3D;
+}
+.Theamdetailgalarry img {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 30px;
+}
+.ThemeGalaryLogo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ThemeGalaryLogo img {
+    width: 240px;
+    height: 80px;
+}
+.genderImg img {
+    width: 100%;
+    height: 200px;
+}
+.teamInfo {
+    background: darkslategrey;
+    padding: 0 20px;
+    padding-top: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.teamInfo h3 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.teamInfo h4 {
+    color: #fff;
+    font-size: 20px;
+}
+.teamInfo .teamIcon {
+    margin-right: 10px;
+    color: lightgray;
+}
+.body p {
+    color: #fff;
+}
+.bodyText {
+    margin-bottom: 40px;
+}
+
+.socileLink {
+    font-size: 45px;
+    text-align: center;
+}
+.socileLink a {
+    margin-right: 15px;
+}
+.Youtube {
+    color: red;
+}
+
+.galarryDainamicImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}

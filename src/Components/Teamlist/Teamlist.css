@@ -1,0 +1,24 @@
+.teamBtn {
+    padding: 5px 35px;
+}
+
+.card {
+    height: 300px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 51px lightgrey;
+}
+.card-title {
+    min-height: 45px;
+}
+p.card-text {
+    min-height: 80px;
+    padding-top: 29px;
+}
+
+img.card-img-top.strLogo {
+    width: 50%;
+    margin-left: 66px;
+    margin-top: 10px;
+    min-height: 60px;
+}

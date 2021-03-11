@@ -1,0 +1,10 @@
+.nomatch {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.nomatch h3{
+    color: red;
+    font-size: 35px;
+}
