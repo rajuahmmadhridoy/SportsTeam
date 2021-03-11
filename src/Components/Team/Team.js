@@ -14,7 +14,7 @@ const Team = () => {
         fetch(url)
         .then(res => res.json())
         .then(data => setTeam(data.leagues))
-    },[])
+    },[id])
     // console.log(team)
     return (
         <div className="Theamdetailgalarry">
